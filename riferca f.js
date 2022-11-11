@@ -1,5 +1,5 @@
 function f(obj, query, regex){
-    fetch('https://corpusmarcella.herokuapp.com/ricercaFiltrata', {
+    fetch('https://odd-erin-worm-wear.cyclic.app/ricercaFiltrata', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json;charset=utf-8'
