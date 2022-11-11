@@ -1,5 +1,5 @@
 function f(obj, query, regex){
-    fetch('https://corpusmarcella.herokuapp.com/ricercaSemplice', { //indirizzo del server a cui si collega
+    fetch('https://odd-erin-worm-wear.cyclic.app/ricercaSemplice', { //indirizzo del server a cui si collega
         method: 'POST',
         headers: {
             'Content-Type': 'application/json;charset=utf-8'
